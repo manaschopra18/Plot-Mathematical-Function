@@ -19,6 +19,6 @@ for y in range (15, -16, -1):             # Range for y-axis
             plotted.append(p)             # array storing all the plotted points
         else:
             print (" ", end="")           # prints space at location(x,y) that are not a part of the function or x axis or y axis
-            print()
+        print()
 
                                           # print(plotted) can be used to see all the plotted points
