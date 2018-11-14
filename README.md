@@ -13,23 +13,13 @@ Example-x
  Given Equation: Y = X + 2
 Expected Output:
  
-               |
-               |
-               |
-               |
-            o  |  o
-               |
-               |
-               |
-               |
-             o | o
-               |
-               |
-              o|o
----------------o---------------
-               |
-               |
-               |
-               |
-               |
-               |
+     |  o
+     | o
+     |o
+     o
+    o|
+---o-+-----
+  o  |
+ o   |
+o    |
+     |
